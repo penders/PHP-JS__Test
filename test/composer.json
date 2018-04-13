@@ -1,0 +1,9 @@
+{
+    "name": "pendersons/test",
+    "require": {
+        "plasticbrain/php-flash-messages": "^1.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.2"
+    }
+}
